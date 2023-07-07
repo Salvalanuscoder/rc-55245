@@ -1,18 +1,15 @@
-// import './react.png'
 
-import './ItemListContainer.css'
 
 const ItemListContainer = ({saludo}) => {
 
     return (
-        <div className="catalogo__contenedor">
-            <h2>Item List Container</h2>
-            <hr/>
+        <div className="catalogo-contenedor">
+            <h2>Itemlistcontainer</h2>
+            <hr />
 
-            <p>Hola mundo!</p>
+            <p>hello world</p>
             <p>{saludo}</p>
         </div>
     )
 }
-
 export default ItemListContainer
