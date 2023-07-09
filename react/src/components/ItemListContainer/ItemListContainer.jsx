@@ -4,7 +4,7 @@ const ItemListContainer = ({saludo}) => {
 
     return (
         <div className="catalogo-contenedor">
-            <h2>Itemlistcontainer</h2>
+            <h2>Item List Container</h2>
             <hr />
 
             <p>hello world</p>
